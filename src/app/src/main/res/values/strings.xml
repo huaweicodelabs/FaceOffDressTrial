@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FaceOffDressTrial</string>
+    <string name="take_photo">TAKE PHOTO</string>
+    <string name="permission_required">Permission Required</string>
+    <string name="permission_message">You must grant permission to access camera and external storage to run this application.</string>
+    <string name="image_capture_title">Image Capture</string>
+    <string name="java">Java</string>
+    <string name="kotlin">Kotlin</string>
+
+</resources>
